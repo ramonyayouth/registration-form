@@ -1,0 +1,41 @@
+@font-face {
+    font-family: font-mon;
+    src: url(MyanmarCherryPro.ttf);
+  }
+@font-face {
+    font-family:font-th;
+    src: url(Maitree-Bold.ttf);
+  }
+@font-face {
+    font-family:font-en;
+    src: url(MAIAN_0.TTF);
+  }
+.nav .fonteng{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: font-en;
+    margin-top: 0%;
+}
+.nav .fontth{
+  
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: font-th;
+}
+.nav .fontmr{
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: font-mon;
+}
+.nav .fontmon{
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: font-mon;
+}
